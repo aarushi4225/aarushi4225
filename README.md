@@ -1,5 +1,5 @@
 ## Hi there `(^‿^)`
-I'm an Electrical Engineering undergrad at **IIT Jammu**, passionate about Digital VLSI design and Hardware-Software co-design. 
+I'm an Electrical Engineering undergrad at **IIT Jammu**, passionate about VLSI and Microelectronics. 
 - 🔭 **I’m currently working on:** Digital VLSI blocks and Hardware-Software co-design.
 - 🌱 **I’m currently learning:** Advanced VLSI skills (Verilog, SystemVerilog, RTL, Verification, Scripting, Protocols, and EDA Platforms).
 - 💬 **Open to:** Collaborative projects and Open-source contributions in VLSI. Happy to connect and brainstorm (as long as my academic schedule is kind).
