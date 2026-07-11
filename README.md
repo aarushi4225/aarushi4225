@@ -2,7 +2,7 @@
 I'm an Electrical Engineering undergrad at **IIT Jammu**, passionate about VLSI and Microelectronics. 
 - 🔭 **Currently working on:** Digital VLSI blocks and Hardware-Software co-design.
 - 🌱 **Currently learning:** Advanced VLSI skills (Verilog, SystemVerilog, RTL, Verification, Scripting, Protocols, and EDA Platforms).
-- 🏅 **Achieved:** 7th Place at Inter IIT Tech Meet 14.0, for the ISRO SAC - VLSI problem statement.
+- 🏅 **Achieved:** 7th Place at Inter IIT Tech Meet 14.0, for the ISRO SAC VLSI Challenge to design a Delta-Sigma ADC.
 - 💬 **Open to:** Collaborative projects and Open-source contributions in VLSI. Happy to connect and brainstorm.
 
 ### 🛠️ Skills & Tools
