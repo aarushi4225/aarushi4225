@@ -1,6 +1,6 @@
 ## Hi there `(^‿^)`
 I'm an Electrical Engineering undergrad at **IIT Jammu**, passionate about VLSI and Microelectronics. 
-- 🔭 **Currently working on:** Digital VLSI blocks and Hardware-Software co-design.
+- 🔭 **Currently working on:** Digital VLSI blocks and Hardware implementation of algorithms.
 - 🌱 **Currently learning:** Advanced VLSI skills (Verilog, SystemVerilog, RTL, Verification, Scripting, Protocols, and EDA Platforms).
 - 🏅 **Achieved:** 7th Place at Inter IIT Tech Meet 14.0, for the ISRO SAC VLSI Challenge to design a Delta-Sigma ADC.
 - 💬 **Open to:** Collaborative projects and Open-source contributions in VLSI. Happy to connect and brainstorm.
@@ -8,7 +8,7 @@ I'm an Electrical Engineering undergrad at **IIT Jammu**, passionate about VLSI 
 ### 🛠️ Skills & Tools
 #### Programming and Hardware Description:
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=c&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00005C?style=for-the-badge)
+<!--- ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00005C?style=for-the-badge) --->
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
